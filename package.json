@@ -1,0 +1,9 @@
+{
+  "name": "ai-prompt-help",
+  "version": "1.0.0",
+  "pi": {
+    "skills": [
+      "./skills/ai-prompt-help"
+    ]
+  }
+}
